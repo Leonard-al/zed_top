@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1007109397441",
+    "project_id": "zclassic",
+    "storage_bucket": "zclassic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007109397441:android:169f0cb085cead34186d40",
+        "android_client_info": {
+          "package_name": "leonard.kunda.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007109397441-99bh1qc7skioancssbojhb07b6sp0d66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsihQS3WHjzDR56gHrfqMo78MtD9o4CHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007109397441-99bh1qc7skioancssbojhb07b6sp0d66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
